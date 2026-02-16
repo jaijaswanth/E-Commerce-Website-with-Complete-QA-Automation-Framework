@@ -1,0 +1,7 @@
+{
+  "name": "QA-Pro E-Commerce Platform",
+  "description": "A high-performance e-commerce application integrated with a comprehensive QA automation framework, featuring product management, checkout, and admin analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
